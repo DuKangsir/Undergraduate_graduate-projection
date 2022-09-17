@@ -1,1 +1,10 @@
 # Undergraduate_graduate-projection
+
+使用方法:使用相关软件平台即可打开相应的工程文件
+
+Adruino_Project：该项目是基于Adruino平台的工程文件，实现了对ESP8266-NodeMCU开发板的开发，使用Adruino平台可直接打开该工程文件
+
+GreenHouse_APP_Project：该工程文件是基于Android_Studio平台开发的移动端APP程序。使用Android_Studio平台可直接打开文件夹，浏览相关文件。其中activity_main.xml文件为APP程序的UI界面设计，MainActivity.java文件为主函数文件，定义APP界面的各部分功能实现。
+
+STM32_Project：该工程文件基于Keil5 MDK版本的工程文件，实现了对STM32F103ZET6开发板的功能开发实现，使用Keil5的MDK版本打开USER文件夹下DHT11.uvprojx即可浏览相关文件。
+
